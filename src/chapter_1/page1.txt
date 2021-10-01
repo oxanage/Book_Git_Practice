@@ -6,4 +6,6 @@ this is our book
 
 Created a new  project
 Created a new  package chapter_1
-Created a new  filed called page1
+Created a new  file called page1
+
+new lines added
